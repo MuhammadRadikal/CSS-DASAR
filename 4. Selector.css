@@ -1,0 +1,23 @@
+/* Selector ID: Selector ID memilih elemen HTML berdasarkan atribut id. Atribut id harus unik dalam satu halaman, sehingga Anda dapat memilih elemen yang spesifik dengan selector ID. Contohnya, untuk memilih elemen dengan ID "header", gunakan selector #header.
+
+Selector class: Selector class memilih elemen HTML berdasarkan atribut class. Atribut class dapat digunakan untuk memberikan gaya yang sama untuk beberapa elemen. Contohnya, untuk memilih semua elemen dengan class "button", gunakan selector .button. */
+
+#container{
+    background-color: aqua;
+}
+
+#container .Link1 a{
+    color: navy;
+}
+
+#container .Link2 a{
+    color: blueviolet;
+}
+
+#container .Paragraf1{
+    color: navy;
+}
+
+#container .Paragraf2{
+    color: blueviolet;
+}

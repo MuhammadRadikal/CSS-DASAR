@@ -1,0 +1,25 @@
+/* text-align: Menentukan posisi teks dalam elemen, seperti rata kiri, rata kanan, atau tengah.
+
+text-indent adalah properti CSS yang digunakan untuk menentukan jarak atau margin horizontal dari paragraf pertama dalam suatu elemen HTML. Properti ini digunakan untuk mengatur indentasi atau tabulasi pada awal paragraf.
+
+text-decoration: Menentukan dekorasi yang akan digunakan pada teks, seperti underline atau strikethrough.
+
+text-transform: Menentukan transformasi teks, seperti membuat teks menjadi huruf kapital atau huruf kecil.
+
+letter-spacing: Menentukan jarak antara karakter dalam teks. 
+
+word-spacing adalah properti CSS yang digunakan untuk menentukan jarak antara kata dalam teks. Properti ini mengontrol jarak horizontal antara setiap kata dalam suatu elemen HTML.*/
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+p{
+    text-align: justify;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+}
+

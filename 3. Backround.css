@@ -1,0 +1,32 @@
+/* background-color: Menentukan warna latar belakang elemen HTML.
+
+background-image: Menentukan gambar latar belakang elemen HTML.
+
+background-repeat: Menentukan cara gambar latar belakang diulang atau diatur.
+
+background-position: Menentukan posisi gambar latar belakang dalam elemen HTML.
+
+background-size: Menentukan ukuran gambar latar belakang dalam elemen HTML. */
+
+body{
+    background-image: url(Sakura1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    background-color: aqua;
+}
+
+p{
+    text-align: justify;
+}
+
+div{
+    width: 50%;
+    height: 200px;
+    background-image: url(Herro.png);
+    background-position: center 350px;
+    margin: auto;
+}
+

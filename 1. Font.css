@@ -1,0 +1,18 @@
+/* font-family: Menentukan jenis huruf atau jenis font yang akan digunakan dalam teks. */
+/* font-size: Menentukan ukuran huruf atau font yang akan digunakan dalam teks. */
+/* font-weight: Menentukan ketebalan huruf atau font yang akan digunakan dalam teks. */
+/* font-style: Menentukan gaya huruf atau font yang akan digunakan dalam teks, seperti italic atau normal. */
+/* font-variant: Menentukan jenis huruf kecil atau huruf kapital yang akan digunakan dalam teks. */
+/* line-height: Menentukan jarak vertikal antara baris dalam teks. */
+
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: aqua;
+    font-size: 20px;
+}
+p{
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 1.5;
+}
